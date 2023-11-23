@@ -2,3 +2,7 @@
   margin: 0 auto;
   text-align: center;
 }
+
+a.list-group-item.list-group-item-action:hover {
+  background-color: #0d6efd;
+}
